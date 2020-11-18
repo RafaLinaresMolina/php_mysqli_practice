@@ -1,0 +1,7 @@
+.header{
+  display: flex;
+  flex-direction: column;
+  height: 3em;
+  width: 100%;
+  background-color: dimgrey;
+}
